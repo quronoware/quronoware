@@ -10,7 +10,8 @@
   <img src="https://github.com/quronoware/quronoware/blob/main/content/unity.gif?raw=true" height="144px">
   <img src="https://github.com/quronoware/quronoware/blob/main/content/fl.gif?raw=true" height="144px">
 </div>
-<p> >> i guess i can call myself a linux enthusiast, mostly arch and ubuntu. i love doing low effort stuff but if needed i can provide something worthy</p>
+<p> >> i love doing low effort stuff but if needed i can provide something worthy</p>
+<p> >> i guess i can call myself a linux enthusiast, mostly arch and ubuntu</p>
 <p> >> i speak english/russian btw</p>
 
 <h2>socials</h2>
