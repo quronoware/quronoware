@@ -5,10 +5,10 @@
 <p> >> the content produced by me is, in fact, of questionable quality</p>
 <p> >> i focus mostly on <b>blender</b>, <b>frontend development</b>, <b>unity gamedev</b> and <b>fl studio</b> (the latter has been stalled for over a year so might as well consider it abandoned).</p>
 <div style="display: inline-block;">
-  <img src="https://github.com/quronoware/quronoware/blob/main/content/blend.gif?raw=true" height="144px">
-  <img src="https://github.com/quronoware/quronoware/blob/main/content/scrip.gif?raw=true" height="144px">
-  <img src="https://github.com/quronoware/quronoware/blob/main/content/unity.gif?raw=true" height="144px">
-  <img src="https://github.com/quronoware/quronoware/blob/main/content/fl.gif?raw=true" height="144px">
+  <img src="https://github.com/quronoware/quronoware/blob/main/content/blender.gif?raw=true" height="144px">
+  <img src="https://github.com/quronoware/quronoware/blob/main/content/javascrip.gif?raw=true" height="144px">
+  <img src="https://github.com/quronoware/quronoware/blob/main/content/uniy.gif?raw=true" height="144px">
+  <img src="https://github.com/quronoware/quronoware/blob/main/content/sudio.gif?raw=true" height="144px">
 </div>
 <p> >> i love doing low effort stuff but if needed i can provide something worthy</p>
 <p> >> i guess i can call myself a linux enthusiast, mostly arch and ubuntu</p>
